@@ -1,2 +1,5 @@
-# aoc_2024
-Advent of Code 2024
+# Advent of Code repository
+A repository for advent of code.
+
+## Table of Contents
+- [2024](diegog/advent_of_code/tree/2024)
