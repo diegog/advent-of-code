@@ -1,4 +1,5 @@
 [workspace]
-members = ["puzzles/day_1", "puzzles/day_2"]
+members = ["puzzles/day_1", "puzzles/day_2", "puzzles/day_3"]
+resolver = "2"
 
 [workspace.dependencies]
